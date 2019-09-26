@@ -618,4 +618,4 @@ function patchedScript(script) {
         location.reload();
     }
     console.log('Successfully loaded Krunker Hero!');
-})();
+})(); 
